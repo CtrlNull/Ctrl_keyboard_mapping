@@ -1,5 +1,6 @@
 # QMK Keymapping for Keebio Iris Keyboard
 ![C programming](https://wikiprogramming.org/wp-content/uploads/2015/05/c-logo.png)
+![QMK Firmware](https://qmk.fm/qmk_icon_48.png)
 
 ### Note
 * This is a mapping dedicated for development/ gaming/ and browsing (multilayerd)

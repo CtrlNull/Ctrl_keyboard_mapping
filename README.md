@@ -1,5 +1,5 @@
-# C#
 # QMK Keymapping for Keebio Iris Keyboard
+![C programming](https://wikiprogramming.org/wp-content/uploads/2015/05/c-logo.png)
 
 ### Note
 * This is a mapping dedicated for development/ gaming/ and browsing (multilayerd)

@@ -31,7 +31,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
      * +-----+-----+-----+-----+-----+-----+                +-----+-----+-----+-----+-----+-----+
      * | LCTL|  A  |  S  |  D  |  F  |  G  |                |  H  |  J  |  K  |  L  |  ;  |  '  |
      * +-----+-----+-----+-----+-----+-----+-----.    ,-----+-----+-----+-----+-----+-----+-----+
-     * | LSFT|  Z  |  X  |  C  |  V  |  B  | ~   /    \     |  N  |  M  |  ,  |  .  |  /  | ENT |
+     * | LSFT|  Z  |  X  |  C  |  V  |  B  |    /    \     |  N  |  M  |  ,  |  .  |  /  | ENT |
      * +-----+-----+-----+--+--+-----+-----+    /      \    +-----+-----+--+--+-----+-----+-----+
      *                      \ LGUI| LOWR| SPC  /        \ BSPC | RASE| LALT/
      *                      `-----+-----+-----'          `-----+-----+----'
@@ -39,7 +39,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
      ESC , 1  , 2  , 3  , 4  , 5  ,                6  , 7  , 8  , 9  , 0  ,BSPC,
      TAB , Q  , W  , E  , R  , T  ,                Y  , U  , I  , O  , P  ,,
      LCTL, A  , S  , D  , F  , G  ,                H  , J  , K  , L  ,SCLN,QUOT,
-     LSFT, Z  , X  , C  , V  , B  , ~  ,         , N  , M  ,COMM,DOT ,SLSH,ENT,
+     LSFT, Z  , X  , C  , V  , B  ,   ,         , N  , M  ,COMM,DOT ,SLSH,ENT,
                        LGUI,LOWR, SPC ,       BSPC,RASE,LALT
   ),
 

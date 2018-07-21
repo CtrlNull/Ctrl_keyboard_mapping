@@ -50,8 +50,26 @@
      *                      `-----+-----+-----'          `-----+-----+----'
      */
 
-<img src="https://wikiprogramming.org/wp-content/uploads/2015/05/c-logo.png" alt="C Programming" style="width:50px;"></img>
+### Linux Setup Directions
+1) clone [QMK repo](https://github.com/qmk/qmk_firmware)
+2) cd qmk_firmware
+3) Run
+```
+sudo util/install_dependencies.sh // this will run apt upgrade
+```
 
+### Directions to load keymap
+1) To build .hex file
+```
+make iris/rev2:[qmk-keymap_work_home]
+```
+
+2) To Flash
+```
+make iris/rev2:[qmk-keymap_work_home]
+```
+3) press reset (flash each side)
+4) plug in usb to *left* side
 
 ### Source links
 [Checkout the keyboard](https://keeb.io/products/iris-keyboard-split-ergonomic-keyboard?variant=2650673709086)

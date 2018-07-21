@@ -50,14 +50,19 @@
      *                      `-----+-----+-----'          `-----+-----+----'
      */
 
-### Linux Setup Directions
+## Setup Guide
+* As of 7/20/2018
+
+### Linux Setup Directions *easiest
 1) clone [QMK repo](https://github.com/qmk/qmk_firmware)
 2) cd qmk_firmware
 3) Run
 ```
 sudo util/install_dependencies.sh // this will run apt upgrade
 ```
-
+### Windows Instructions
+* I do not recommend this route due to the multiple downloads and step required
+[Windows Instructions](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Setting%20Up.md)
 ### Directions to load keymap
 1) To build .hex file
 ```

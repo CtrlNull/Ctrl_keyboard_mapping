@@ -54,6 +54,9 @@
 
 
 ### Source links
-*[Checkout the keyboard](https://keeb.io/products/iris-keyboard-split-ergonomic-keyboard?*variant=2650673709086)
-*[QMK Documentation](https://docs.qmk.fm/#/)
-*[QMK repo](https://github.com/qmk/qmk_firmware)
+---
+[Checkout the keyboard](https://keeb.io/products/iris-keyboard-split-ergonomic-keyboard?variant=2650673709086)
+---
+[QMK Documentation](https://docs.qmk.fm/#/)
+---
+[QMK repo](https://github.com/qmk/qmk_firmware)

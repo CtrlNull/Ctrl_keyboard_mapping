@@ -11,12 +11,10 @@ enum custom_keycodes {
   QWERTY = SAFE_RANGE,
   LOWER,
   RAISE,
-  LEDS
 };
 
 #define KC_ KC_TRNS
 #define _______ KC_TRNS
-#define BL_TOGG 
 #define KC_LOWR LOWER
 #define KC_RASE RAISE
 #define KC_RST RESET

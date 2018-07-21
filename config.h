@@ -23,8 +23,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define USE_SERIAL
 
 #define MASTER_LEFT
-#define BACKLIGHT_LEVELS 3
-#define BACKLIGHT_BREATHING
-#define BREATHING_PERIOD 6
-
 #endif
